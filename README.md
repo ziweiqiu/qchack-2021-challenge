@@ -5,8 +5,8 @@
 
 #### Ziwei Qiu (ziweiqiu@g.harvard.edu)
 
-This challenge aims to realize universal compilation of arbitrary multi-qubit quantum operations to the gates supported on practical quantum hardware, in particular the Google Sycamore device. Only limited types of single- and two-qubit gates are allowed and not all qubits are connected. Here is the link with more details:
-https://github.com/quantumlib/qchack-2021-challenge
+This challenge aims to realize universal compilation of a unitary matrix to the quantum gates that can be executed on practical quantum hardware, in particular the Google Sycamore device. Limited types of single- and two-qubit gates are allowed and not all qubits are connected. Here is the link with more details:
+https://github.com/quantumlib/qchack-2021-challenge. Please refer to .../solution for my answer. 
 
 
 
